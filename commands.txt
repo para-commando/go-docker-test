@@ -1,0 +1,8 @@
+Start the service:
+   docker-compose up
+Start in detached mode (background):
+   docker-compose up -d
+Stop the service:
+   docker-compose down
+Rebuild and start:
+   docker-compose up --build
